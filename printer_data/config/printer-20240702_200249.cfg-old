@@ -11,7 +11,7 @@
 [include nozzle-scrub.cfg]
 [include filter_fan.cfg]
 [include sensorless_homing_override.cfg]
-#[include filametrix_macro.cfg]
+[include filametrix_macro.cfg]
 
 [exclude_object]
 
